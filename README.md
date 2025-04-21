@@ -35,7 +35,7 @@ This is a simple and fun game built using the Python `pygame` library. The objec
 4. Avoid missing the balls to keep playing.
 
 ## Screenshots
-*(Add screenshots of the game here)*
+![Screenshot 2025-04-21 at 9 37 19 PM](https://github.com/user-attachments/assets/d10334dd-0f13-425c-9ce9-2f2bdc847f96)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
