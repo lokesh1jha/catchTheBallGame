@@ -1,0 +1,7 @@
+[project]
+name = "CatchTheBallGame"
+version = "0.1.0"
+description = "Catch the ball in bucket, A simple game using pygame lib"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
